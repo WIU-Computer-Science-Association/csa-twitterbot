@@ -1,4 +1,4 @@
-package myBot;
+package club.csahub.bot.twitter;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
