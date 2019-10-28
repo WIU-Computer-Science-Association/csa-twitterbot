@@ -2,9 +2,9 @@
     Huge shoutout to Mistapotta's video on the Twitter4j api in this video here with: https://youtu.be/kgj3mjclAsM ,
     I used it as a reference for the twitterer class with this project.
 */
-package main;
+package club.csahub.bot.twitter;
 
-import myBot.Twitterer;
+import club.csahub.bot.twitter.Twitterer;
 import twitter4j.Status;
 import twitter4j.TwitterException;
 

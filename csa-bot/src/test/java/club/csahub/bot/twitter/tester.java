@@ -3,6 +3,8 @@
  *
  * @author Evan
  */
+package club.csahub.bot.twitter;
+
 import java.io.IOException;
 import java.io.PrintStream;
 import java.util.LinkedList;
@@ -11,8 +13,8 @@ import twitter4j.DirectMessage;
 import twitter4j.DirectMessageList;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
-import myBot.Webscrape;
-import myBot.Twitterer;
+import club.csahub.bot.twitter.Webscrape;
+import club.csahub.bot.twitter.Twitterer;
 /*
     This is where I test new features 
 */
