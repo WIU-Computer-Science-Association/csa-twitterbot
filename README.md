@@ -1,5 +1,18 @@
 # csa-twitterbot
-A WIP CSA twitterbot in Java using Twitter4J.
+## Installing dependencies with Maven
+In the csa-twitterbot directory, use the following command:
+
+>mvn install
+
+You can then package the build by using the following command in the csa-twitterbot directory:
+
+>mvn package
+
+I am new to Maven, so if you see any issues with any of the POMs, just let me know or put in a PR or issue.
+
+## Project Details
+
+This is a WIP CSA twitterbot in Java using Twitter4J and JSoup.
 
 The goal of this bot is to listen to the CSA github and emails to tweet out when something is updated or events are posted through email.
 
